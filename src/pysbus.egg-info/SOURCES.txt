@@ -1,0 +1,10 @@
+README.md
+setup.py
+src/pysbus/__init__.py
+src/pysbus/rx.py
+src/pysbus/utils.py
+src/pysbus.egg-info/PKG-INFO
+src/pysbus.egg-info/SOURCES.txt
+src/pysbus.egg-info/dependency_links.txt
+src/pysbus.egg-info/not-zip-safe
+src/pysbus.egg-info/top_level.txt
